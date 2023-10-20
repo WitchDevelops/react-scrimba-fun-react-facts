@@ -3,5 +3,5 @@ export const list: string[] = [
   "Was originally created by Jordan Walke",
   "Has well over 100K stars on GitHub",
   "Is maintained by Facebook",
-  "Powers thousands of enterprise apps, including mobile apps",
+  "Powers thousands of enterprise apps, including mobile apps"
 ];
