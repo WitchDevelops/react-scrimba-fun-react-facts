@@ -1,0 +1,19 @@
+.logo__container {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.logo__icon {
+  width: 28.93px;
+  height: 28.93px;
+  flex-shrink: 0;
+}
+.logo__text {
+  color: var(--accent);
+  font-family: Inter;
+  font-size: 22.253px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -1.113px;
+}

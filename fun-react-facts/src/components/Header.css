@@ -1,0 +1,21 @@
+.header__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--main-800);
+    padding-inline: 26px;
+    padding-block: 32px;
+    color: var(--main-100);
+    @media (min-width: 576px) {
+        flex-direction: row;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    &:hover {
+        color: var(--main-200);
+    }
+}
