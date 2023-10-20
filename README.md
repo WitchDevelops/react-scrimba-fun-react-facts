@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/71686774-d8fa-4e48-8a30-1708a4cbc641/deploy-status)](https://app.netlify.com/sites/classy-eclair-de7044/deploys)
 
 # About
 
