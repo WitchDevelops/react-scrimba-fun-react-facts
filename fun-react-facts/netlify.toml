@@ -1,4 +1,4 @@
 [build]
-base = "."
-command = "npm run build"
-publish = "./build"
+  base = "fun-react-facts"    # This specifies the subfolder where your app is located
+  command = "npm run build"   # The build command for your app
+  publish = "fun-react-facts/build"   # The directory to publish after the build
