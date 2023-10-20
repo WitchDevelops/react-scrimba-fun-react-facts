@@ -14,7 +14,13 @@ It's a learning project I made for the [Scrimba course](https://scrimba.com/lear
 * React
 * TypeScript
 
+# Some fun solutions
+
+* rendering the list of items from external data file
+* calculating the animation delay based on the number of items in the source file
+
 # Live
+
 Deployed to Netlify [here](https://scrimba-fun-react-facts.netlify.app/)
 
 # Motivation
